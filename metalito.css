@@ -1,0 +1,58 @@
+body{
+font-family: Arial, sans-serif;
+padding: 20px;
+margin: 20px;
+}
+
+h1{
+font-family: Times New Roman, sans-serif;
+text-align: center;
+}
+
+h2{
+font-family: Courier New, sans-serif;
+text-align: center;
+}
+
+p{
+font-size: 18px;
+line-height: 1.6;
+text-align: center;
+}
+
+img{
+width: 100%;
+max-width: 500px;
+display: block;
+margin: 0 auto 20px auto;
+border: 25px solid;
+border-radius: 25px;
+}
+
+ul, ol{
+font-family: Verdana, sans-serif;
+margin: 0 auto 20px auto;
+font-size: 18px;
+line-height: 1.6;
+text-align: center;
+}
+
+a{
+font-size: 16px;
+font-weight: normal;
+transition: all 0.3s ease;
+}
+
+a:hover{
+text-decoration: underline;
+font-size: 18px;
+font-weight: bold;
+background-color: #F6CFFF;
+}
+
+footer{
+background-color: #96F7E4;
+font-weight: bold;
+font-style: italic;
+text-align: center;
+}
